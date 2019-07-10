@@ -3,19 +3,6 @@ bamazon homework
 
 This assignment is similar to making a list of products from amazon!!
 
-# Examples
-
-To see the demo of this assignment observe the images carefully.
-
-![bamazon_image](./images/1image.png)
-The first image shows the table of products and the questions answered.
-
-![bamazon_image](./images/working.png)
-This image shows that you placed an order and gives you additional instructions to use it again.
-
-![bamazon_image](./images/image3.png)
-The message you will get if you order over the stock_quantity, it will restart after three seconds.
-
 # Overview
 
 In this assignment you are creating an amazon like storefront for customers ordering the products they would like to buy. This assignment applies what I have learned from mysql.
@@ -37,3 +24,17 @@ The second question will ask you "How many units would you like to buy?". Type a
 If you type a number higher than the stock_quantity, you will get the message "Your order cannot be placed. Please select another item". Wait for three seconds than you go back to question 1 and start over.
 
 The program will stop once your order has been placed. Or you can stop it by hitting Crtl+C or Command+C if your using a Mac. 
+
+# Examples
+
+To see the demo of this assignment observe the images carefully.
+
+![bamazon_image](./images/1image.png)
+The first image shows the table of products and the questions answered.
+
+![bamazon_image](./images/working.png)
+This image shows that you placed an order and gives you additional instructions to use it again.
+
+![bamazon_image](./images/image3.png)
+The message you will get if you order over the stock_quantity, it will restart after three seconds.
+
