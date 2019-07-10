@@ -3,7 +3,7 @@ bamazon homework
 
 This assignment is similar to making a list of products from amazon!!
 
-#Examples
+# Examples
 
 To see the demo of this assignment observe the images carefully.
 
@@ -16,15 +16,15 @@ This image shows that you placed an order and gives you additional instructions 
 ![bamazon_image](./images/image3.png)
 The message you will get if you order over the stock_quantity, it will restart after three seconds.
 
-#Overview
+# Overview
 
 In this assignment you are creating an amazon like storefront for customers ordering the products they would like to buy. This assignment applies what I have learned from mysql.
 
-#Features
+# Features
 
 The assignment comes with inqiurer, mysql, and console.table. Console.table makes my list very organized.
 
-#How to use
+# How to use
 
 To start the program, type 'node bamazonCustomer' in to the terminal then hit return/enter on the keyboard. 
 
